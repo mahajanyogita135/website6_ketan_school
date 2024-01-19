@@ -1,0 +1,8 @@
+@media screen and (max-width:1199px){
+    .banner-content{
+        position: relative;
+        top: 5%;
+        width: 100%;
+    }
+    
+}
