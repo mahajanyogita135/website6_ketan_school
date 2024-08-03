@@ -508,6 +508,14 @@ a.dropdown-item:hover{
 }
 /* /upcoming event section end */
 
+/* /Blog section start*/
+.pegination ul li{
+    list-style: none;
+}
+/* /Blog section end*/
+
+
+
 /* footer section start */
 footer{
     background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url(../img/footer-bg.jpg);
